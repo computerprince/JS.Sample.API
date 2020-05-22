@@ -4,4 +4,17 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="4.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.4.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JS.Sample.Application\JS.Sample.Application.csproj" />
+    <ProjectReference Include="..\JS.Sample.Common\JS.Sample.Common.csproj" />
+    <ProjectReference Include="..\JS.Sample.Percistance\JS.Sample.Percistance.csproj" />
+  </ItemGroup>
+
 </Project>

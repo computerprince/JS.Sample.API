@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JS.Sample.Common\JS.Sample.Common.csproj" />
+  </ItemGroup>
+
 </Project>
