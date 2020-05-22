@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JS.Sample.Application\JS.Sample.Application.csproj" />
+    <ProjectReference Include="..\JS.Sample.Percistance\JS.Sample.Percistance.csproj" />
+  </ItemGroup>
+
 </Project>
