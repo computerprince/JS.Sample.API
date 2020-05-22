@@ -9,14 +9,14 @@ A  Sample dot net core Project  using Microservices Clean Architecture
 3. MsSql Server 2017
 
 # Features
-Web Api
-Code First Migraton
-CommandStack (Mediator)
-QueryStack
-Shared Functions
-EntityFrameworkCore
-SOLID Principles
-Design Patterns
-Swagger
+1. Web Api
+2. Code First Migraton
+3. CommandStack (Mediator)
+4. QueryStack
+5. Shared Functions
+6. EntityFrameworkCore
+7. SOLID Principles
+8. Design Patterns
+9. Swagger
 
 
