@@ -7,3 +7,16 @@ A  Sample dot net core Project  using Microservices Clean Architecture
 1. Visual Studio 2019
 2. .NET Core 3.1
 3. MsSql Server 2017
+
+# Features
+Web Api
+Code First Migraton
+CommandStack (Mediator)
+QueryStack
+Shared Functions
+EntityFrameworkCore
+SOLID Principles
+Design Patterns
+Swagger
+
+
